@@ -59,7 +59,11 @@ Learning the basics of Swift
 -	Power the ESP8266 via USB and navigate to 192.168.0.26 from a web browser to control the hand. (change the static IP address if using different IP range)
 
 ## Image gallery
-<img width="551" alt="Screenshot IOS App" src="https://github.com/nikon-63/Robot_Hand/assets/79413139/911303aa-553a-4303-9f81-f8a8f09578ab">
+
+<p align="center">
+  <img alt="Screenshot IOS App" src="https://github.com/nikon-63/Robot_Hand/assets/79413139/911303aa-553a-4303-9f81-f8a8f09578ab">
+  "Screenshot of IOS app"
+</p>
 
 
 
