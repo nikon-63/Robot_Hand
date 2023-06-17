@@ -46,6 +46,7 @@ Learning the basics of Swift
 -	Developed a strong understanding of Arduino libraries (WiFiClient, Servo)
 -	Strong knowledge of HTTP requests and web servers.
 -	Developed a basic understanding of creating a swift application that uses HTTP requests to interact with other devices on the network.
+
 ## Assembly instructions
 -	3D print the provided STL modules in PLA with a 0.2-layer height.
 -	Glue the base of each finger to the palm.
@@ -56,6 +57,9 @@ Learning the basics of Swift
 -	Wire the servos and two push buttons to the ESP8266 using the wiring diagram below. 
 -	Uploaded the provided code to the ESP8266. (Change WiFi SSID and Password)
 -	Power the ESP8266 via USB and navigate to 192.168.0.26 from a web browser to control the hand. (change the static IP address if using different IP range)
+
+## Image gallery
+<img width="551" alt="Screenshot IOS App" src="https://github.com/nikon-63/Robot_Hand/assets/79413139/911303aa-553a-4303-9f81-f8a8f09578ab">
 
 
 
