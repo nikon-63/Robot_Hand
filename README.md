@@ -56,11 +56,19 @@ Learning the basics of Swift
 -	Attach the servo horn to each servo.
 -	Mout each servo to the back of the palm.
 -	Run a string from the hole in the top of each finger through the string clips on the fingers and then glue it to the servo horns.
--	Wire the servos and two push buttons to the ESP8266 using the wiring diagram below. 
+-	Wire the servos and two push buttons to the ESP8266 using the wiring table below. 
 -	Uploaded the provided code to the ESP8266. (Change WiFi SSID and Password)
 -	Power the ESP8266 via USB and navigate to 192.168.0.26 from a web browser to control the hand. (change the static IP address if using different IP range)
 
-
+| ESP8266 | Hardware |
+| ------------- | ------------- |
+| Button | D7 |
+| Button | D8 |
+| Servo_Thumb | D0 |
+| Servo_Finger_1 | D1 |
+| Servo_Finger_2 | D2 |
+| Servo_Finger_3 | D3 |
+| Servo_Finger_3 | D3 |
 
 
 ## Demo GIF
