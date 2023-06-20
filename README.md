@@ -1,7 +1,8 @@
 # Robot_Hand
 
-![Robot_Hand_Main_IMG](https://github.com/nikon-63/Robot_Hand/assets/79413139/df401a78-2fc6-4648-9f88-f745ac75a157)
-
+<p align="center">
+  <img src="/Image/Robot_Hand_Main_IMG.png" width=50% height=50%>
+</p>
 ## Overview
 
 This repository shows my journey of designing and building a 3D-printed robot hand. This project was undertaken to provide me with valuable knowledge and experience with 3D printing Arduino / microcontrollers and the basics of robotics. This provided a strong foundation of knowledge for my next robotics project.
@@ -58,17 +59,23 @@ Learning the basics of Swift
 -	Uploaded the provided code to the ESP8266. (Change WiFi SSID and Password)
 -	Power the ESP8266 via USB and navigate to 192.168.0.26 from a web browser to control the hand. (change the static IP address if using different IP range)
 
-## Image gallery
 
+
+
+## Demo GIF
 <p align="center">
-  <img alt="Screenshot IOS App" src="https://github.com/nikon-63/Robot_Hand/assets/79413139/911303aa-553a-4303-9f81-f8a8f09578ab">
-  "Screenshot of IOS app"
+  <img src="/Image/RobotHand.gif" width=50% height=60%>
 </p>
 
 
-
-
-
+## Image gallery
+<p align="center">
+  <img src="/Image/Robot_Hand_Main_IMG.png" width=50% height=50%>
+  <img src="/Image/Robot_Hand_Back_IMG.png" width=50% height=50%>
+  <img src="/Image/Robot_Hand_Real_Frount.png" width=50% height=50%>
+  <img src="/Image/Robot_Hand_Real_Back.png" width=50% height=40%>
+  <img src="/Image/Robot_Hand_Real_ESP.png" width=50% height=30%>
+</p>
 
 
 
