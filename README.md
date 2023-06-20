@@ -3,6 +3,7 @@
 <p align="center">
   <img src="/Image/Robot_Hand_Main_IMG.png" width=50% height=50%>
 </p>
+
 ## Overview
 
 This repository shows my journey of designing and building a 3D-printed robot hand. This project was undertaken to provide me with valuable knowledge and experience with 3D printing Arduino / microcontrollers and the basics of robotics. This provided a strong foundation of knowledge for my next robotics project.
