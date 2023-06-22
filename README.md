@@ -60,7 +60,7 @@ Learning the basics of Swift
 -	Uploaded the provided code to the ESP8266. (Change WiFi SSID and Password)
 -	Power the ESP8266 via USB and navigate to 192.168.0.26 from a web browser to control the hand. (change the static IP address if using different IP range)
 
-| ESP8266 | Hardware |
+| Hardware | ESP8266 |
 | ------------- | ------------- |
 | Button | D7 |
 | Button | D8 |
